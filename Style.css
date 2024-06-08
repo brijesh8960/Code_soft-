@@ -1,0 +1,198 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* background-color:white; */
+}
+
+.box1 {
+    color: white;
+    align-items: center;
+    display: inline;
+    display: flex;
+    flex-direction: row;
+    gap:3px;
+
+}
+
+.heading {
+    color: aqua;
+    background-color: brown;
+
+
+}
+
+.bottom {
+
+    background-color: rgb(231, 91, 203);
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 0.5%;
+    text-align: center;
+    align-items: center;
+
+
+
+
+}
+
+.box {
+    height: 100%;
+    width: 100%;
+    /* border-color: rgb(25, 24, 23); */
+    color: black;
+    text-align: center;
+    display: flex;
+    border-left: solid;
+    gap: 10px;
+
+    color: white;
+    padding: 0.5% 15%;
+}
+
+.container {
+    background-color: white;
+    border-color: none;
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    padding: 0.5% 18%;
+
+
+
+}
+
+/* .span{
+    
+} */
+.div1 {
+    width: 100%;
+    height: auto;
+    color: black;
+    display: flex;
+    gap: 30px;
+    padding-left: 20%;
+
+
+}
+
+/* .container2{
+    height: 100%;
+    width : 100%;
+} */
+.image {
+    width: 100%;
+    height: auto;
+}
+
+.container3 {
+    height: fit-content;
+    width: fit-content;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+
+
+}
+
+.div2 {
+    background-color: black;
+    display: flex;
+    gap: 30%;
+    padding: 1% 14%;
+
+}
+
+.div3 {
+    background-color: black;
+    display: flex;
+    gap: 10%;
+    padding: 1% 10%;
+
+
+
+
+}
+
+.container4 {
+    text-align: justify;
+    align-items: left;
+    margin-left: 50%;
+}
+
+.image2 {
+
+    /* align-items: center ; */
+    width: 50%;
+    height: auto;
+    margin: 0.5em 0 1.3em 1.4em;
+    clear: right;
+    float: right;
+
+}
+
+.span1 {
+    margin-bottom: 30%;
+}
+
+.div4 {
+    font: bolder;
+    padding: 2% 5%;
+
+}
+
+.div5 {
+    font: bolder;
+    padding: 0% 5%;
+
+}
+
+.div6 {
+    padding: 0% 5%;
+    margin-top: 2%;
+}
+
+.button {
+    margin: 2% 5%;
+    padding: 1% 1% 1% 1%;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(246, 27, 206);
+    border-style: none;
+
+
+}
+
+.container5 {
+
+
+    background-color: brown;
+
+}
+
+.div7 {
+    padding: 0% 5%;
+    background-color: aliceblue;
+
+}
+
+.div8 {
+
+
+    padding: 3% 5%;
+    display: flex;
+    gap: 40%;
+    background-color: aliceblue;
+
+
+}
+
+.image3 {
+
+    display: flex;
+    gap: 5%;
+    background-color: aliceblue;
+    padding: 2% 5%;
+}
+
